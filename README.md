@@ -1,2 +1,5 @@
 # git-run
-Just another repo
+ 
+ Hi Non existent readers!
+ 
+ I am doing an Udacity NanoDegree on Android Development
